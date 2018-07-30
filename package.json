@@ -1,0 +1,13 @@
+{
+    "name": "njobot",
+    "version": "1.0.0",
+    "description": "a minecraft bot based on mineflayer",
+    "author": "NJOFDSBGU",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "mineflayer": "^2.7.3"
+    }
+}
